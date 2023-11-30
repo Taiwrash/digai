@@ -1,0 +1,20 @@
+{
+  "main": [
+
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/Ibn_mudathir"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://www.github.com/Taiwrash"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/rasheedtaiwo"
+    }
+  ]
+}
